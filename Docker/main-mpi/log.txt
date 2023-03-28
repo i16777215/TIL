@@ -1,0 +1,8 @@
+gate!18: Hello, myrank =   0
+gate!18: Hello, myrank =   1
+gate!18: Hello, myrank =   2
+gate!18: Hello, myrank =   3
+gate!18: Hello, myrank =   4
+gate!18: Hello, myrank =   5
+gate!18: Hello, myrank =   6
+gate!18: Hello, myrank =   7
